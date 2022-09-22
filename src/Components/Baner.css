@@ -1,0 +1,49 @@
+/* .background-baner {
+    width: 100vw;
+    height: 100vh;
+} */
+
+.baner {
+    /* background-image: url('http://getwallpapers.com/wallpaper/full/d/2/7/47376.jpg'); */
+    /* background-image: url("http://hdqwalls.com/wallpapers/dragon-night-king-game-of-thrones-season-8-5s.jpg"); */
+    height: 70vh;
+    background-size: cover;
+
+}
+
+
+.main-baner {
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to top, rgba(69, 66, 66, 0.3), rgba(0, 0, 0, 1));
+    padding-top: 150px;
+    padding-left: 40px;
+
+
+}
+
+.play-btn {
+    width: 100px;
+    height: 40px;
+    text-decoration: none;
+    /* margin-left: 30px; */
+    display: flex;
+    align-items: center;
+}
+
+.My-list {
+    margin-left: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(40, 38, 38);
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.btn-group {
+    display: flex;
+}

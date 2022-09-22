@@ -1,0 +1,11 @@
+.hide {
+    visibility: hidden;
+}
+
+.tframe {
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 300px;
+    z-index: 3;
+
+}
